@@ -63,7 +63,6 @@ executable examples
                      , Coroutine
                      , Cut
                      , Fresh
-                     , NonDetEff
                      , Teletype
                      , Trace
   build-depends:       base >=4.7 && <5
