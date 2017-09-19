@@ -20,7 +20,7 @@ starting point.
 
 -}
 module Control.Monad.Effect.State (
-  State,
+  State(..),
   get,
   put,
   modify,
